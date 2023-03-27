@@ -1,7 +1,7 @@
 <p align="right">
   <a href="https://GitHub.com/Vedomant/CodeKitchen/stargazers/"><img src="https://img.shields.io/github/stars/Vedomant/CodeKitchen.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars"></a>
   <a href="https://GitHub.com/Vedomant/CodeKitchen/network/"><img src="https://img.shields.io/github/forks/Vedomant/CodeKitchen.svg?style=social&label=Fork&maxAge=2592000" alt="GitHub forks"></a>
-  <a href="https://GitHub.com/Vedomant/CodeKitchen/watchers/"><img src="https://img.shields.io/github/watchers/Vedomant/CodeKitchen.svg?style=social&label=Watch&maxAge=2592000" alt="GitHub watchers"></a>
+  <a href="https://github.com/Vedomant/CodeKitchen"><img src="https://img.shields.io/github/watchers/Vedomant/CodeKitchen.svg?style=social&label=Visitors&maxAge=2592000" alt="GitHub visitors"></a>
 </p>
 
 # CodeKitchen
